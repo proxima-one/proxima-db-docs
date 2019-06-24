@@ -6,7 +6,10 @@ module.exports = {
     {
       '/': [
         '',
+        'Architecture',
+        'Getting-started',
         'API',
+        'Tutorials',
         'FAQ']
 
 
