@@ -12,6 +12,7 @@ module.exports = {
         'Architecture',
         'Getting-started',
         'API',
+        'Integrations',
         'Tutorials',
         'FAQ']
 
